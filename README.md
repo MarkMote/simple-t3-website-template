@@ -21,7 +21,9 @@ Before Deploying
 - npm run build 
 
 # About 
+Very simple website template with nextjs, typescript, and tailwind. 
+
 Currently there are two template pages: `src/pages/index.tsx` is the main one and `src/pages/simple.tsx` is a minimal page.
 
-The stack uses tailwind css, typescript, and nextjs (react). 
+The site is built off of the [T3 stack](https://create.t3.gg/). 
 
